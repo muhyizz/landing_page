@@ -1,0 +1,1 @@
+This is the odin foundation landing page project based on the reference img
